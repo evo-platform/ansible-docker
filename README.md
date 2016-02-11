@@ -1,6 +1,8 @@
 ansible-docker - Ansible Playbook for Docker
 ==============
 
+Customized Docker role of ansible for evo platform. 
+
 ## Overview
 
 The `ansible-docker` role supports the installation and configuration of Docker Engine. It supports Ubuntu and RedHat/Centos.
